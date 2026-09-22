@@ -18,9 +18,11 @@ This project addresses these questions through a centralized, interactive Power 
 ## Key KPIs
 The executive dashboard provides a high-level snapshot of the business:
 KPI	Value
-| Revenue	| $24.9M |
-| Total Profit |	$10.5M |
-| Total Orders | 25.2K |
-| Return Rate	| 2.17% |
-| Unique Customers | 17.41K |
-| Revenue per Customer | ~$1K |
+| KPI	Value |
+|---|---|
+| **Revenue**	| $24.9M |
+| **Total Profit** |	$10.5M |
+| **Total Orders** | 25.2K |
+| **Return Rate**	| 2.17% |
+| **Unique Customers** | 17.41K |
+| **Revenue per Customer** | ~$1K |
