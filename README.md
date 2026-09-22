@@ -34,19 +34,7 @@ The dashboard was designed to help stakeholders:
 - **Data / BI Teams** — Maintain dashboards, KPIs, data models, and analytical reporting
 
 ## Project Workflow
-Business Requirements
-        ↓
-Data Preparation
-        ↓
-Data Modeling
-        ↓
-DAX Measures
-        ↓
-Interactive Report Design
-        ↓
-KPI & Trend Analysis
-        ↓
-Business Insights
+Business Requirements → Data Preparation → Data Modeling → DAX Measures → Interactive Report Design → KPI & Trend Analysis → Business Insights
 
 ## Key KPIs
 The executive dashboard provides a high-level snapshot of the business:
@@ -58,3 +46,51 @@ The executive dashboard provides a high-level snapshot of the business:
 | **Return Rate**	| 2.17% |
 | **Unique Customers** | 17.41K |
 | **Revenue per Customer** | ~$1K |
+
+## Analytical Capabilities
+The dashboard was designed around several important analytical questions.
+
+### Trend Analysis
+How are revenue, profit, and orders changing over time?
+
+The calendar model supports analysis across:
+- Year
+- Quarter
+- Month
+This makes it possible to identify changes in business performance and investigate periods of growth or decline.
+
+### Target Analysis
+Performance is not evaluated solely through absolute numbers.
+The report incorporates:
+- Actual Performance
+- Target
+- Target Gap
+This allows stakeholders to understand whether performance is aligned with expectations.
+
+### Product Performance
+Product-level analysis helps identify:
+- High-revenue products
+- High-profit products
+- Product categories driving performance
+- Subcategory contribution
+- Products requiring further investigation
+
+### Customer Performance
+Customer analysis focuses on:
+- Customer contribution
+- Revenue per customer
+- Customer-level performance
+- Demographic characteristics
+This provides a stronger understanding of who contributes to revenue, rather than looking only at overall sales.
+
+### Geographic Analysis
+Territory and country-level fields allow sales performance to be explored geographically.
+This can help identify:
+- Strong-performing markets
+- Geographic concentration
+- Regional performance differences
+- Markets requiring deeper investigation
+
+### Returns Analysis
+Returns are incorporated into the dashboard to provide additional context around sales performance.
+Instead of evaluating sales in isolation, stakeholders can investigate whether strong sales are accompanied by higher return activity.
