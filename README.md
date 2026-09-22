@@ -41,20 +41,31 @@ Business Requirements → Data Preparation → Data Modeling → DAX Measures �
 ## Dashboard Pages
 ### 1. Executive Dashboard
 Provides a high-level view of **Adventure Works' overall business performance**, covering revenue, profit, orders, return rate, revenue trends, category performance, and monthly KPIs. It also highlights top-performing products and key product trends to support quick executive-level decision-making.
+
+<p align="center">
 <img src="Dashboard Preview/Exec Dashboard.png" width="65%">
+</p>
 
-### 2. Customer Details
-
-Focuses on **customer performance and purchasing behavior**, with metrics for total customers, revenue per customer, orders by income level and occupation, and top customers by revenue. The page also enables users to explore customer trends and identify high-value customer segments.
-
-### 3. Regional Analysis
-
+### 2. Regional Analysis
 Visualizes **sales and customer distribution across global markets** using an interactive map. Users can filter regions such as Europe, North America, and Pacific to compare geographic performance and identify markets with stronger customer activity.
 
-### 4. Product Details
+<p align="center">
+<img src="Dashboard Preview/Map.png" width="65%">
+</p>
 
+### 3. Customer Details
+Focuses on **customer performance and purchasing behavior**, with metrics for total customers, revenue per customer, orders by income level and occupation, and top customers by revenue. The page also enables users to explore customer trends and identify high-value customer segments.
+
+<p align="center">
+<img src="Dashboard Preview/Customer Details.png" width="65%">
+</p>
+
+### 4. Product Details
 Provides a detailed view of **individual product performance against targets**, including orders, revenue, and profit. Interactive metric selection and parameter controls allow users to analyze product trends, compare actual performance with targets, and evaluate adjusted profit over time.
 
+<p align="center">
+<img src="Dashboard Preview/Product Details.png" width="65%">
+</p>
 
 ## Key KPIs
 The executive dashboard provides a high-level snapshot of the business:
