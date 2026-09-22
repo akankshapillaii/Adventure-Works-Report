@@ -94,3 +94,24 @@ This can help identify:
 ### Returns Analysis
 Returns are incorporated into the dashboard to provide additional context around sales performance.
 Instead of evaluating sales in isolation, stakeholders can investigate whether strong sales are accompanied by higher return activity.
+
+### 💡 Key Analytical Takeaways
+The dashboard is structured to help answer questions such as:
+
+**1. Is revenue growth translating into stronger profitability?**
+Revenue alone does not provide a complete picture of business performance. Comparing revenue with profit helps determine whether growth is also supporting the bottom line.
+
+**2. Which products contribute most to business performance?**
+Product-level analysis makes it possible to identify products and categories that contribute disproportionately to revenue, orders, or profit.
+
+**3. How valuable is the customer base?**
+Revenue-per-customer analysis provides an additional perspective beyond simply counting the number of customers.
+
+**4. Are returns affecting business performance?**
+Return rate provides important context when evaluating product and sales performance.
+
+**5. Where is performance strongest geographically?**
+Territory and country analysis can reveal differences in market contribution and highlight areas for further investigation.
+
+**6. Is the business meeting its targets?**
+Actual-vs-target measures help stakeholders distinguish between absolute performance and performance relative to expectations.
