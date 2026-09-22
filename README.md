@@ -15,7 +15,7 @@ Business stakeholders need to quickly understand:
 - How is performance changing month over month?
 This project addresses these questions through a centralized, interactive Power BI reporting environment.
 
-# Business Objectives
+## Business Objectives
 The dashboard was designed to help stakeholders:
 - Monitor **sales, revenue, profit, orders, and customer KPIs**
 - Compare **actual performance against targets**
@@ -24,6 +24,29 @@ The dashboard was designed to help stakeholders:
 - Explore performance across **time, territories, and countries**
 - Drill down into **product and customer-level insights**
 - Support **data-driven business decision-making**
+
+## Key Stakeholders
+- **Business Management** — Monitor overall sales, profitability, targets, and business performance
+- **Sales Teams** — Track revenue, orders, targets, and sales trends
+- **Product Teams** — Analyze product performance, profitability, demand, and returns
+- **Customer Teams** — Understand customer contribution, purchasing behavior, and revenue per customer
+- **Operations Teams** — Monitor orders, returns, and regional performance
+- **Data / BI Teams** — Maintain dashboards, KPIs, data models, and analytical reporting
+
+## Project Workflow
+Business Requirements
+        ↓
+Data Preparation
+        ↓
+Data Modeling
+        ↓
+DAX Measures
+        ↓
+Interactive Report Design
+        ↓
+KPI & Trend Analysis
+        ↓
+Business Insights
 
 ## Key KPIs
 The executive dashboard provides a high-level snapshot of the business:
