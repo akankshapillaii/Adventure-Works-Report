@@ -99,7 +99,7 @@ Instead of evaluating sales in isolation, stakeholders can investigate whether s
 The dashboard is structured to help answer questions such as:
 
 **1. Is revenue growth translating into stronger profitability?**
-Revenue alone does not provide a complete picture of business performance. Comparing revenue with profit helps determine whether growth is also supporting the bottom line.
+> Revenue alone does not provide a complete picture of business performance. Comparing revenue with profit helps determine whether growth is also supporting the bottom line.
 
 **2. Which products contribute most to business performance?**
 Product-level analysis makes it possible to identify products and categories that contribute disproportionately to revenue, orders, or profit.
