@@ -1,5 +1,5 @@
 # Adventure-Works-Report
-This report is an interactive **Power BI business intelligence dashboard** built using the AdventureWorks dataset to analyze **sales, profitability, customers, products, returns, and geographic performance**, helping stakeholders monitor KPIs, identify trends, compare targets, and uncover actionable insights.
+This report is an interactive **Power BI business intelligence dashboard** built using the Adventure Works dataset to analyze **sales, profitability, customers, products, returns, and geographic performance**, helping stakeholders monitor KPIs, identify trends, compare targets, and uncover actionable insights.
 
 ## Business Problem
 A large transactional dataset can contain valuable information about business performance, but extracting meaningful insights from raw records can be difficult.
@@ -14,6 +14,16 @@ Business stakeholders need to quickly understand:
 - Are individual products meeting their targets?
 - How is performance changing month over month?
 This project addresses these questions through a centralized, interactive Power BI reporting environment.
+
+# Business Objectives
+The dashboard was designed to help stakeholders:
+- Monitor **sales, revenue, profit, orders, and customer KPIs**
+- Compare **actual performance against targets**
+- Identify **product and customer performance trends**
+- Analyze **returns and their impact on sales**
+- Explore performance across **time, territories, and countries**
+- Drill down into **product and customer-level insights**
+- Support **data-driven business decision-making**
 
 ## Key KPIs
 The executive dashboard provides a high-level snapshot of the business:
