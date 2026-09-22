@@ -2,7 +2,7 @@
 This report is an interactive **Power BI business intelligence dashboard** built using the Adventure Works dataset to analyze **sales, profitability, customers, products, returns, and geographic performance**, helping stakeholders monitor KPIs, identify trends, compare targets, and uncover actionable insights.
 
 <p align="center">
-  <img src="Dashboard Preview/Exec Dashboard.png" width="50%">
+  <img src="Dashboard Preview/Exec Dashboard.png" width="70%">
 </p>
 
 [📊 View Dashboard](https://github.com/akankshapillaii/Adventure-Works-Report/blob/main/AdventureWorks%20Report.pbix)
