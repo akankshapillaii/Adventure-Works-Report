@@ -125,9 +125,51 @@ This can help identify:
 Returns are incorporated into the dashboard to provide additional context around sales performance.
 Instead of evaluating sales in isolation, stakeholders can investigate whether strong sales are accompanied by higher return activity.
 
-### 💡 Key Analytical Takeaways
-**5. Where is performance strongest geographically?**
-Territory and country analysis can reveal differences in market contribution and highlight areas for further investigation.
+## 🔍 Deep Dive Analysis & Findings
+### Understanding Sales Performance Through Data
+The dashboard provides an overview of **$24.9M in revenue, $10.5M in profit, and 25.2K orders**, allowing overall business performance to be evaluated alongside product, customer, return, and geographic metrics.
 
-**6. Is the business meeting its targets?**
-Actual-vs-target measures help stakeholders distinguish between absolute performance and performance relative to expectations.
+### Revenue Increased Despite Lower Order Volume
+The latest monthly comparison shows revenue increasing from **$1.77M to $1.83M**, a **3.31% increase**, while orders decreased from **2,165 to 2,146**, a **0.88% decline**.
+
+> **Finding:** Revenue growth alongside lower order volume creates an opportunity to investigate changes in average order value, product mix, or higher-value product contribution.
+
+### Accessories Drive the Highest Order Volume
+**Accessories recorded 17.0K orders**, followed by **Bikes with 13.9K** and **Clothing with 7.0K**.
+
+> **Finding:** Accessories represent the highest order-volume category and provide an opportunity to further investigate their revenue contribution, product mix, and return behavior.
+
+### Order Volume Does Not Always Translate Into Higher Revenue
+**Water Bottle - 30 oz** recorded **3,963 orders and $39.8K revenue**, while **Fender Set - Mountain** recorded **1,975 orders and $87.0K revenue**.
+
+> **Finding:** Product performance should be evaluated using multiple KPIs rather than order volume alone.
+
+### High-Revenue Products Can Have Higher Return Rates
+The **Sport-100 Helmet - Red** generated **$73.4K revenue** with a **3.33% return rate**, while the **Sport-100 Helmet - Blue** generated **$67.1K revenue** with a **3.31% return rate**.
+
+Both are above the overall **2.17% return rate**.
+
+> **Finding:** High-performing products with elevated return rates may require further investigation across product, customer, and geographic dimensions.
+
+### Product Performance Against Targets
+For the selected **Road Tire Tube**:
+| Metric | Actual | Target |
+|---|---:|---:|
+| Orders | **213** | 234 |
+| Revenue | **$1,668** | $1,804 |
+| Profit | **$1,044** | $1,129 |
+
+All three metrics achieved approximately **91–92% of their respective targets**.
+
+> **Finding:** The consistent target gap across orders, revenue, and profit provides an opportunity to investigate the factors affecting product performance.
+
+### Customer Value Adds Another Perspective
+The dashboard includes **17.41K unique customers** with approximately **$1K revenue per customer**.
+The selected top customer generated **$12.408K revenue from 6 orders**.
+
+> **Finding:** Customer-level analysis provides additional insight into revenue concentration and helps identify high-value customers beyond overall customer counts.
+
+### Overall Finding
+The analysis moves beyond **"How much did the business sell?"** to understand **what is driving performance, which products contribute most, how customers contribute to revenue, where returns are concentrated, and how performance compares with targets**.
+
+By bringing these dimensions together, the dashboard provides a data-driven view of business performance and highlights areas where **product, customer, operational, and geographic analysis can be explored further**.
