@@ -2,10 +2,10 @@
 This report is an interactive **Power BI business intelligence dashboard** built using the Adventure Works dataset to analyze **sales, profitability, customers, products, returns, and geographic performance**, helping stakeholders monitor KPIs, identify trends, compare targets, and uncover actionable insights.
 
 <p align="center">
-  <img src="images/executive-dashboard.png" alt="AdventureWorks Executive Dashboard" width="100%">
+  <img src="Dashboard Preview/Exec Dashboard.png" width="100%">
 </p>
 
-[📊 View Dashboard](./AdventureWorks%20Report.pbix)
+[📊 View Dashboard](AdventureWorks Report.pbix)
 
 ## Business Problem
 A large transactional dataset can contain valuable information about business performance, but extracting meaningful insights from raw records can be difficult.
