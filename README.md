@@ -41,7 +41,7 @@ Business Requirements → Data Preparation → Data Modeling → DAX Measures �
 ## Dashboard Pages
 ### 1. Executive Dashboard
 Provides a high-level view of **Adventure Works' overall business performance**, covering revenue, profit, orders, return rate, revenue trends, category performance, and monthly KPIs. It also highlights top-performing products and key product trends to support quick executive-level decision-making.
-<img src="Dashboard Preview/Exec Dashboard.png" width="100%">
+<img src="Dashboard Preview/Exec Dashboard.png" width="60%">
 
 ### 2. Customer Details
 
