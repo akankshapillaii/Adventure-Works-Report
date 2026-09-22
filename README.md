@@ -17,8 +17,7 @@ This project addresses these questions through a centralized, interactive Power 
 
 ## Key KPIs
 The executive dashboard provides a high-level snapshot of the business:
-KPI	Value
-| KPI	Value |
+| KPI | Value |
 |---|---|
 | **Revenue**	| $24.9M |
 | **Total Profit** |	$10.5M |
