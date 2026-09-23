@@ -3,6 +3,9 @@ This report is an interactive **Power BI business intelligence dashboard** built
 
 [📊 View Dashboard](https://github.com/akankshapillaii/Adventure-Works-Report/blob/main/AdventureWorks%20Report.pbix)
 
+## Table of Contents
+- Business Problem
+
 ## Business Problem
 A large transactional dataset can contain valuable information about business performance, but extracting meaningful insights from raw records can be difficult.
 
@@ -38,7 +41,7 @@ The dashboard was designed to help stakeholders:
 ## Project Workflow
 Business Requirements → Data Preparation → Data Modeling → DAX Measures → Interactive Report Design → KPI & Trend Analysis → Business Insights
 
-# 🧩 Data Structure & Initial Checks
+## Data Structure & Initial Checks
 The Adventure Works data structure as seen below is connecting **sales transactions with product, customer, territory, returns, and calendar information** to support multi-dimensional analysis.
 
 <p align="center">
