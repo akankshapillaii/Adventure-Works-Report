@@ -180,18 +180,6 @@ Both are above the overall **2.17% return rate**.
 
 > **Finding:** High-performing products with elevated return rates may require further investigation across product, customer, and geographic dimensions.
 
-### Product Performance Against Targets
-For the selected **Road Tire Tube**:
-| Metric | Actual | Target |
-|---|---:|---:|
-| Orders | **213** | 234 |
-| Revenue | **$1,668** | $1,804 |
-| Profit | **$1,044** | $1,129 |
-
-All three metrics achieved approximately **91–92% of their respective targets**.
-
-> **Finding:** The consistent target gap across orders, revenue, and profit provides an opportunity to investigate the factors affecting product performance.
-
 ### Overall Finding
 The analysis moves beyond **"How much did the business sell?"** to understand **what is driving performance, which products contribute most, how customers contribute to revenue, where returns are concentrated, and how performance compares with targets**.
 
