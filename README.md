@@ -17,7 +17,7 @@ The key business opportunity is therefore not simply to increase sales volume, b
 - [Dashboard Pages](https://github.com/akankshapillaii/Adventure-Works-Report#dashboard-pages)
 - [Key KPIs](https://github.com/akankshapillaii/Adventure-Works-Report#key-kpis)
 - [Key Findings](https://github.com/akankshapillaii/Adventure-Works-Report#key-findings)
-- [Recommendations]()
+- [Recommendations](https://github.com/akankshapillaii/Adventure-Works-Report/blob/main/README.md#recommendations)
 
 ## Business Problem
 Adventure Works needs a clear way to understand:
@@ -162,7 +162,12 @@ Products below target should be monitored separately from products that are alre
 Based on the identified insights, the following recommendations have been provided:
 
 - Increase order value through cross-selling and bundling. Revenue increased by 3.31% while orders declined by 0.88%. Introduce relevant product bundles and cross-sell complementary products to increase the value of each order.
+  
 - Address the high return rate of Sport-100 Helmets. The Red (3.33%) and Blue (3.31%) variants have higher return rates than the overall 2.17%. Review return reasons and improve product information, sizing guidance, and product quality to reduce avoidable returns.
+
 - Promote high-value products alongside high-volume products. The Fender Set – Mountain generated $87.0K from 1,975 orders, while the Water Bottle – 30 oz generated $39.8K from 3,963 orders. Use high-volume products as entry points for bundling and cross-selling higher-value products.
+
 - Improve sales of products falling below target. The Road Tire Tube achieved 213 orders against a 234-order target (~91%). Run targeted promotions and bundle the product with relevant bike products to help close the 21-order gap.
+
 - Increase customer value through targeted campaigns. With 17.41K customers generating approximately $1K revenue per customer, segment customers based on purchase value and frequency. Use personalized offers and product recommendations to encourage repeat purchases and higher spending.
+- 
