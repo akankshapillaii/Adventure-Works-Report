@@ -8,7 +8,7 @@ The Adventure Works dashboard provides a consolidated view of $24.9M in revenue,
 The key business opportunity is therefore not simply to increase sales volume, but to protect profitable products, understand high-return items, improve under-target product performance, and convert customer and regional insights into targeted actions.
 
 ## Table of Contents
-- [Executive Summary]()
+- [Executive Summary](https://github.com/akankshapillaii/Adventure-Works-Report/tree/main#executive-summary)
 - [Business Problem](https://github.com/akankshapillaii/Adventure-Works-Report/blob/main/README.md#business-problem)
 - [Dashboard](https://github.com/akankshapillaii/Adventure-Works-Report/blob/main/README.md#dashboard)
 - [Key Stakeholders](https://github.com/akankshapillaii/Adventure-Works-Report#key-stakeholders)
@@ -16,8 +16,8 @@ The key business opportunity is therefore not simply to increase sales volume, b
 - [Data Structure & Initial Checks](https://github.com/akankshapillaii/Adventure-Works-Report#data-structure--initial-checks)
 - [Dashboard Pages](https://github.com/akankshapillaii/Adventure-Works-Report#dashboard-pages)
 - [Key KPIs](https://github.com/akankshapillaii/Adventure-Works-Report#key-kpis)
-- [Analytical Capabilities](https://github.com/akankshapillaii/Adventure-Works-Report#analytical-capabilities)
-- [Deep Dive Analysis & Findings](https://github.com/akankshapillaii/Adventure-Works-Report#-deep-dive-analysis--findings)
+- [Key Findings](https://github.com/akankshapillaii/Adventure-Works-Report#key-findings)
+- [Deep Dive Analysis & Findings](https://github.com/akankshapillaii/Adventure-Works-Report#deep-dive-analysis--findings)
 
 ## Business Problem
 Adventure Works needs a clear way to understand:
