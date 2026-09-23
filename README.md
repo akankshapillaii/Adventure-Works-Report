@@ -10,7 +10,7 @@ The key business opportunity is therefore not simply to increase sales volume, b
 ## Table of Contents
 - [Executive Summary]()
 - [Business Problem](https://github.com/akankshapillaii/Adventure-Works-Report/blob/main/README.md#business-problem)
-- [Dashboard]()
+- [Dashboard](https://github.com/akankshapillaii/Adventure-Works-Report/blob/main/README.md#dashboard)
 - [Key Stakeholders](https://github.com/akankshapillaii/Adventure-Works-Report#key-stakeholders)
 - [Project Workflow](https://github.com/akankshapillaii/Adventure-Works-Report#project-workflow)
 - [Data Structure & Initial Checks](https://github.com/akankshapillaii/Adventure-Works-Report#data-structure--initial-checks)
@@ -55,7 +55,7 @@ Business Requirements → Data Preparation → Data Modeling → DAX Measures �
 The Adventure Works data structure as seen below is connecting **sales transactions with product, customer, territory, returns, and calendar information** to support multi-dimensional analysis.
 
 <p align="center">
-  <img src="Dashboard Preview/Data Model.png" width="100%">
+  <img src="Dashboard Preview/Data Model.png" width="70%">
 </p>
 
 ### Initial Data Checks
@@ -70,28 +70,28 @@ The Adventure Works data structure as seen below is connecting **sales transacti
 Provides a high-level view of **Adventure Works' overall business performance**, covering revenue, profit, orders, return rate, revenue trends, category performance, and monthly KPIs. It also highlights top-performing products and key product trends to support quick executive-level decision-making.
 
 <p align="center">
-<img src="Dashboard Preview/Exec Dashboard.png" width="65%">
+<img src="Dashboard Preview/Exec Dashboard.png" width="70%">
 </p>
 
 ### 2. Regional Analysis
 Visualizes **sales and customer distribution across global markets** using an interactive map. Users can filter regions such as Europe, North America, and Pacific to compare geographic performance and identify markets with stronger customer activity.
 
 <p align="center">
-<img src="Dashboard Preview/Map.png" width="65%">
+<img src="Dashboard Preview/Map.png" width="70%">
 </p>
 
 ### 3. Customer Details
 Focuses on **customer performance and purchasing behavior**, with metrics for total customers, revenue per customer, orders by income level and occupation, and top customers by revenue. The page also enables users to explore customer trends and identify high-value customer segments.
 
 <p align="center">
-<img src="Dashboard Preview/Customer Details.png" width="65%">
+<img src="Dashboard Preview/Customer Details.png" width="70%">
 </p>
 
 ### 4. Product Details
 Provides a detailed view of **individual product performance against targets**, including orders, revenue, and profit. Interactive metric selection and parameter controls allow users to analyze product trends, compare actual performance with targets, and evaluate adjusted profit over time.
 
 <p align="center">
-<img src="Dashboard Preview/Product Details.png" width="65%">
+<img src="Dashboard Preview/Product Details.png" width="70%">
 </p>
 
 ## Key KPIs
@@ -108,20 +108,18 @@ The executive dashboard provides a high-level snapshot of the business:
 ## Key Findings
 1. Revenue is growing without an increase in order volume
 Revenue increased from $1.77M to $1.83M (+3.31%), while orders fell from 2,165 to 2,146 (-0.88%).
-- Business implication:
+--> **Business implication:**
 The latest revenue improvement appears to be driven by the value or mix of purchases rather than simply acquiring more orders. This makes product mix and customer purchasing behavior important areas to monitor.
 
 2. Accessories generate the highest order volume
 Order volume by category shows:
-|       Category      ||          Orders |
+|       Category      |          Orders |
 |-----|-----|
 | Accessories |     17.0K  |
 |   Bikes  |   13.9K  |
-Clothing
+| Clothing  |   7.0K |
 
-7.0K
-
-Business implication:
+--> Business implication:
 Accessories are the largest contributor to order volume and represent an important opportunity for cross-selling and repeat purchases.
 
 3. High-volume does not always mean high-revenue
