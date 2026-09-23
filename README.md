@@ -1,8 +1,6 @@
 # Adventure-Works-Report
 This report is an interactive **Power BI business intelligence dashboard** built using the Adventure Works dataset to analyze **sales, profitability, customers, products, returns, and geographic performance**, helping stakeholders monitor KPIs, identify trends, compare targets, and uncover actionable insights.
 
-[📊 View Dashboard](https://github.com/akankshapillaii/Adventure-Works-Report/blob/main/AdventureWorks%20Report.pbix)
-
 ## Executive Summary
 
 The Adventure Works dashboard provides a consolidated view of $24.9M in revenue, $10.5M in profit, 25.2K orders, and a 2.17% return rate across 17.41K customers. Overall performance is positive, but the analysis highlights a few areas that deserve attention: monthly revenue increased to $1.83M (+3.31%), while orders slightly declined to 2,146 (-0.88%); high-volume products are not always the strongest revenue contributors; and some product variants have return rates above 3%.
