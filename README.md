@@ -23,20 +23,21 @@ The key business opportunity is therefore not simply to increase sales volume, b
 
 ## Business Problem
 Adventure Works needs a clear way to understand:
-- How revenue, profit, orders, and returns are performing.
-- Whether recent growth is coming from higher order volume or higher value per order.
-- Which product categories and products are driving demand.
-- Which products require attention because of elevated returns or weaker performance.
-- How customer and regional patterns can support better business decisions.
+- How revenue, profit, orders, and returns are performing?
+- Whether recent growth is coming from higher order volume or higher value per order?
+- Which product categories and products are driving demand?
+- Which products require attention because of elevated returns or weaker performance?
+- How customer and regional patterns can support better business decisions?
+
 The objective of this analysis was to turn transactional data into a decision-ready business view, rather than simply presenting a collection of charts.
 
 ## Dashboard
 Power BI Report: [📊 View Dashboard](https://github.com/akankshapillaii/Adventure-Works-Report/blob/main/AdventureWorks%20Report.pbix)
 
 The report contains four main analytical views:
-|        Page          |    Business Question    |
-| ---------------------|-------------------------|
-| Executive Dashboard  |  How is the business performing overall?  |
+|                   Page                   |                   Business Question                   |
+|------------------------------------------|-------------------------------------------------------|
+|              Executive Dashboard    |  How is the business performing overall?  |
 |         Map          |       Where is demand coming from?        |
 Product Detail
 Which products are driving sales and profit?
