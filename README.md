@@ -18,6 +18,7 @@ The key business opportunity is therefore not simply to increase sales volume, b
 - [Key KPIs](https://github.com/akankshapillaii/Adventure-Works-Report#key-kpis)
 - [Key Findings](https://github.com/akankshapillaii/Adventure-Works-Report#key-findings)
 - [Deep Dive Analysis & Findings](https://github.com/akankshapillaii/Adventure-Works-Report#deep-dive-analysis--findings)
+- [Recommendations]()
 
 ## Business Problem
 Adventure Works needs a clear way to understand:
@@ -180,7 +181,12 @@ Both are above the overall **2.17% return rate**.
 
 > **Finding:** High-performing products with elevated return rates may require further investigation across product, customer, and geographic dimensions.
 
-### Overall Finding
-The analysis moves beyond **"How much did the business sell?"** to understand **what is driving performance, which products contribute most, how customers contribute to revenue, where returns are concentrated, and how performance compares with targets**.
+## Recommendations
 
-By bringing these dimensions together, the dashboard provides a data-driven view of business performance and highlights areas where **product, customer, operational, and geographic analysis can be explored further**.
+Based on the identified insights, the following recommendations have been provided:
+
+- Increase order value through cross-selling and bundling. Revenue increased by 3.31% while orders declined by 0.88%. Introduce relevant product bundles and cross-sell complementary products to increase the value of each order.
+- Address the high return rate of Sport-100 Helmets. The Red (3.33%) and Blue (3.31%) variants have higher return rates than the overall 2.17%. Review return reasons and improve product information, sizing guidance, and product quality to reduce avoidable returns.
+- Promote high-value products alongside high-volume products. The Fender Set – Mountain generated $87.0K from 1,975 orders, while the Water Bottle – 30 oz generated $39.8K from 3,963 orders. Use high-volume products as entry points for bundling and cross-selling higher-value products.
+- Improve sales of products falling below target. The Road Tire Tube achieved 213 orders against a 234-order target (~91%). Run targeted promotions and bundle the product with relevant bike products to help close the 21-order gap.
+- Increase customer value through targeted campaigns. With 17.41K customers generating approximately $1K revenue per customer, segment customers based on purchase value and frequency. Use personalized offers and product recommendations to encourage repeat purchases and higher spending.
