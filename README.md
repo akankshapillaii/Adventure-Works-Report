@@ -107,9 +107,11 @@ The executive dashboard provides a high-level snapshot of the business:
 
 ## Key Findings
 **1. Revenue is growing without an increase in order volume**
+
 Revenue increased from $1.77M to $1.83M (+3.31%), while orders fell from 2,165 to 2,146 (-0.88%).
 
 → **Business implication:**
+
 The latest revenue improvement appears to be driven by the value or mix of purchases rather than simply acquiring more orders. This makes product mix and customer purchasing behavior important areas to monitor.
 
 **2. Accessories generate the highest order volume**
