@@ -12,7 +12,7 @@ The key business opportunity is therefore not simply to increase sales volume, b
 ## Table of Contents
 - [Executive Summary]()
 - [Business Problem](https://github.com/akankshapillaii/Adventure-Works-Report/blob/main/README.md#business-problem)
-- [Business Objectives](https://github.com/akankshapillaii/Adventure-Works-Report/blob/main/README.md#business-objectives)
+- [Dashboard]()
 - [Key Stakeholders](https://github.com/akankshapillaii/Adventure-Works-Report#key-stakeholders)
 - [Project Workflow](https://github.com/akankshapillaii/Adventure-Works-Report#project-workflow)
 - [Data Structure & Initial Checks](https://github.com/akankshapillaii/Adventure-Works-Report#data-structure--initial-checks)
@@ -35,16 +35,13 @@ The objective of this analysis was to turn transactional data into a decision-re
 Power BI Report: [📊 View Dashboard](https://github.com/akankshapillaii/Adventure-Works-Report/blob/main/AdventureWorks%20Report.pbix)
 
 The report contains four main analytical views:
-|                   Page                         |                         Business Question                   |
-|------------------------------------------|-------------------------------------------------------|
-|              Executive Dashboard    |  How is the business performing overall?  |
-|         Map          |       Where is demand coming from?        |
-Product Detail
-Which products are driving sales and profit?
+|                   Page                         |                   Business Question                   |
+|------------------------------------------------|-------------------------------------------------------|
+|              Executive Dashboard               |         How is the business performing overall?       |
+|                      Map                       |              Where is demand coming from?             |
+|                Product Detail                  |       Which products are driving sales and profit?    |
+|               Customer Detail                  |       Who are the customers driving business value?   |
 
-Customer Detail
-
-Who are the customers driving business value?
 ## Key Stakeholders
 - **Business Management** — Monitor overall sales, profitability, targets, and business performance
 - **Sales Teams** — Track revenue, orders, targets, and sales trends
@@ -101,7 +98,7 @@ Provides a detailed view of **individual product performance against targets**, 
 
 ## Key KPIs
 The executive dashboard provides a high-level snapshot of the business:
-| KPI | Value |
+| KPI                       |                         Value |
 |---|---|
 | **Revenue**	| $24.9M |
 | **Total Profit** |	$10.5M |
