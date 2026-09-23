@@ -107,53 +107,89 @@ The executive dashboard provides a high-level snapshot of the business:
 | **Unique Customers** | 17.41K |
 | **Revenue per Customer** | ~$1K |
 
-## Analytical Capabilities
-The dashboard was designed around several important analytical questions.
+## Key Findings
+1. Revenue is growing without an increase in order volume
+Revenue increased from $1.77M to $1.83M (+3.31%), while orders fell from 2,165 to 2,146 (-0.88%).
+- Business implication:
+The latest revenue improvement appears to be driven by the value or mix of purchases rather than simply acquiring more orders. This makes product mix and customer purchasing behavior important areas to monitor.
 
-### Trend Analysis
-How are revenue, profit, and orders changing over time?
-The calendar model supports analysis across:
-- Year
-- Quarter
-- Month
-This makes it possible to identify changes in business performance and investigate periods of growth or decline.
+2. Accessories generate the highest order volume
+Order volume by category shows:
+|       Category      ||          Orders |
+|-----|-----|
+| Accessories |     17.0K  |
+|   Bikes  |   13.9K  |
+Clothing
 
-### Target Analysis
-Performance is not evaluated solely through absolute numbers.
-The report incorporates:
-- Actual Performance
-- Target
-- Target Gap
-This allows stakeholders to understand whether performance is aligned with expectations.
+7.0K
 
-### Product Performance
-Product-level analysis helps identify:
-- High-revenue products
-- High-profit products
-- Product categories driving performance
-- Subcategory contribution
-- Products requiring further investigation
+Business implication:
+Accessories are the largest contributor to order volume and represent an important opportunity for cross-selling and repeat purchases.
 
-### Customer Performance
-Customer analysis focuses on:
-- Customer contribution
-- Revenue per customer
-- Customer-level performance
-- Demographic characteristics
-This provides a stronger understanding of who contributes to revenue, rather than looking only at overall sales.
+3. High-volume does not always mean high-revenue
 
-### Geographic Analysis
-Territory and country-level fields allow sales performance to be explored geographically.
-This can help identify:
-- Strong-performing markets
-- Geographic concentration
-- Regional performance differences
-- Markets requiring deeper investigation
+Water Bottle – 30 oz
 
-### Returns Analysis
-Returns are incorporated into the dashboard to provide additional context around sales performance.
-Instead of evaluating sales in isolation, stakeholders can investigate whether strong sales are accompanied by higher return activity.
+3,963 orders
 
+$39.8K revenue
+
+1.95% return rate
+
+This is one of the strongest products by volume, but its revenue contribution is comparatively modest.
+
+Fender Set – Mountain
+
+1,975 orders
+
+$87.0K revenue
+
+1.36% return rate
+
+Despite having roughly half the orders of the Water Bottle, the Fender Set generated more than 2× its revenue.
+
+Business implication:
+Management should evaluate products using both volume and value, rather than relying on order count alone.
+
+4. Some products have noticeably higher return rates
+
+Sport-100 Helmet variants
+
+Product
+
+Orders
+
+Revenue
+
+Return Rate
+
+Sport-100 Helmet – Red
+
+2,099
+
+$73.4K
+
+3.33%
+
+Sport-100 Helmet – Blue
+
+1,995
+
+$67.1K
+
+3.31%
+
+Both variants have return rates above 3.3%, compared with the overall dashboard return rate of 2.17%.
+
+Business implication:
+These products should be investigated for possible common drivers such as product expectations, fit, quality, description accuracy, or customer segment differences.
+
+5. Product targets identify opportunities for improvement
+
+The Road Tire Tube reached approximately 91–92% of its target, with 213 orders against a 234-order target.
+
+Business implication:
+Products below target should be monitored separately from products that are already performing strongly. This creates a more focused approach to improving product-level performance.
 ## 🔍 Deep Dive Analysis & Findings
 ### Understanding Sales Performance Through Data
 The dashboard provides an overview of **$24.9M in revenue, $10.5M in profit, and 25.2K orders**, allowing overall business performance to be evaluated alongside product, customer, return, and geographic metrics.
