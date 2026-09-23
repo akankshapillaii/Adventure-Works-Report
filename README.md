@@ -104,7 +104,7 @@ The executive dashboard provides a high-level snapshot of the business:
 - **Revenue per Customer** - ~$1K
 
 ## Key Findings
-###1. Revenue is growing without an increase in order volume**
+### 1. Revenue is growing without an increase in order volume
 
 Revenue increased from $1.77M to $1.83M (+3.31%), while orders fell from 2,165 to 2,146 (-0.88%).
 
@@ -112,7 +112,7 @@ Revenue increased from $1.77M to $1.83M (+3.31%), while orders fell from 2,165 t
 
 The latest revenue improvement appears to be driven by the value or mix of purchases rather than simply acquiring more orders. This makes product mix and customer purchasing behavior important areas to monitor.
 
-###2. Accessories generate the highest order volume**
+### 2. Accessories generate the highest order volume
 Order volume by category shows:
 - Accessories: 17.0K
 - Bikes: 13.9K
@@ -121,7 +121,7 @@ Order volume by category shows:
 → **Business implication:**
 Accessories are the largest contributor to order volume and represent an important opportunity for cross-selling and repeat purchases.
 
-**3. High-volume does not always mean high-revenue**
+### 3. High-volume does not always mean high-revenue
 
 **Water Bottle – 30 oz**
 - 3,963 orders
@@ -138,7 +138,7 @@ Despite having roughly half the orders of the Water Bottle, the Fender Set gener
 → **Business implication:**
 Management should evaluate products using both volume and value, rather than relying on order count alone.
 
-**4. Some products have noticeably higher return rates**
+### 4. Some products have noticeably higher return rates
 
 **Sport-100 Helmet variants**
 
@@ -151,7 +151,7 @@ Both variants have return rates above 3.3%, compared with the overall dashboard 
 
 → **Business implication:** These products should be investigated for possible common drivers such as product expectations, fit, quality, description accuracy, or customer segment differences.
 
-**5. Product targets identify opportunities for improvement**
+### 5. Product targets identify opportunities for improvement
 
 The Road Tire Tube reached approximately 91–92% of its target, with 213 orders against a 234-order target.
 
@@ -178,6 +178,7 @@ The latest monthly comparison shows revenue increasing from **$1.77M to $1.83M**
 The **Sport-100 Helmet - Red** generated **$73.4K revenue** with a **3.33% return rate**, while the **Sport-100 Helmet - Blue** generated **$67.1K revenue** with a **3.31% return rate**.
 
 Both are above the overall **2.17% return rate**.
+
 > **Finding:** High-performing products with elevated return rates may require further investigation across product, customer, and geographic dimensions.
 
 ### Product Performance Against Targets
