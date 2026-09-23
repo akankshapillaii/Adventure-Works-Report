@@ -192,12 +192,6 @@ All three metrics achieved approximately **91–92% of their respective targets*
 
 > **Finding:** The consistent target gap across orders, revenue, and profit provides an opportunity to investigate the factors affecting product performance.
 
-### Customer Value Adds Another Perspective
-The dashboard includes **17.41K unique customers** with approximately **$1K revenue per customer**.
-The selected top customer generated **$12.408K revenue from 6 orders**.
-
-> **Finding:** Customer-level analysis provides additional insight into revenue concentration and helps identify high-value customers beyond overall customer counts.
-
 ### Overall Finding
 The analysis moves beyond **"How much did the business sell?"** to understand **what is driving performance, which products contribute most, how customers contribute to revenue, where returns are concentrated, and how performance compares with targets**.
 
