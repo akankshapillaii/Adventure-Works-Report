@@ -96,15 +96,15 @@ Provides a detailed view of **individual product performance against targets**, 
 
 ## Key KPIs
 The executive dashboard provides a high-level snapshot of the business:
-| **Revenue**	| $24.9M |
-| **Total Profit** |	$10.5M |
-| **Total Orders** | 25.2K |
-| **Return Rate**	| 2.17% |
-| **Unique Customers** | 17.41K |
-| **Revenue per Customer** | ~$1K |
+- **Revenue**	- $24.9M 
+- **Total Profit** - $10.5M
+- **Total Orders** - 25.2K
+- **Return Rate**	- 2.17%
+- **Unique Customers** - 17.41K
+- **Revenue per Customer** - ~$1K
 
 ## Key Findings
-**1. Revenue is growing without an increase in order volume**
+###1. Revenue is growing without an increase in order volume**
 
 Revenue increased from $1.77M to $1.83M (+3.31%), while orders fell from 2,165 to 2,146 (-0.88%).
 
@@ -112,7 +112,7 @@ Revenue increased from $1.77M to $1.83M (+3.31%), while orders fell from 2,165 t
 
 The latest revenue improvement appears to be driven by the value or mix of purchases rather than simply acquiring more orders. This makes product mix and customer purchasing behavior important areas to monitor.
 
-**2. Accessories generate the highest order volume**
+###2. Accessories generate the highest order volume**
 Order volume by category shows:
 - Accessories: 17.0K
 - Bikes: 13.9K
