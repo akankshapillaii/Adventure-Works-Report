@@ -33,7 +33,7 @@ The objective of this analysis was to turn transactional data into a decision-re
 Power BI Report: [📊 View Dashboard](https://github.com/akankshapillaii/Adventure-Works-Report/blob/main/AdventureWorks%20Report.pbix)
 
 The report contains four main analytical views:
-|                   Page                         |                   Business Question                   |
+|                   **Page**                         |                   **Business Question**                  |
 |------------------------------------------------|-------------------------------------------------------|
 |              Executive Dashboard               |         How is the business performing overall?       |
 |                      Map                       |              Where is demand coming from?             |
@@ -113,9 +113,9 @@ The latest revenue improvement appears to be driven by the value or mix of purch
 
 2. Accessories generate the highest order volume
 Order volume by category shows:
-|       Category      |          Orders |
+|       **Category**     |      **Orders**   |
 |-----|-----|
-| Accessories |     17.0K  |
+| Accessories |   17.0K  |
 |   Bikes  |   13.9K  |
 | Clothing  |   7.0K |
 
