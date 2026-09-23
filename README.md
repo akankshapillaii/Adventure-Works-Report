@@ -169,5 +169,4 @@ Based on the identified insights, the following recommendations have been provid
 
 - Improve sales of products falling below target. The Road Tire Tube achieved 213 orders against a 234-order target (~91%). Run targeted promotions and bundle the product with relevant bike products to help close the 21-order gap.
 
-- Increase customer value through targeted campaigns. With 17.41K customers generating approximately $1K revenue per customer, segment customers based on purchase value and frequency. Use personalized offers and product recommendations to encourage repeat purchases and higher spending.
-- 
+- Increase customer value through targeted campaigns. With 17.41K customers generating approximately $1K revenue per customer, segment customers based on purchase value and frequency. Use personalized offers and product recommendations to encourage repeat purchases and higher spending. 
