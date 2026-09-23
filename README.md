@@ -108,83 +108,50 @@ The executive dashboard provides a high-level snapshot of the business:
 ## Key Findings
 1. Revenue is growing without an increase in order volume
 Revenue increased from $1.77M to $1.83M (+3.31%), while orders fell from 2,165 to 2,146 (-0.88%).
---> **Business implication:**
+
+→ **Business implication:**
 The latest revenue improvement appears to be driven by the value or mix of purchases rather than simply acquiring more orders. This makes product mix and customer purchasing behavior important areas to monitor.
 
-2. Accessories generate the highest order volume
+3. Accessories generate the highest order volume
 Order volume by category shows:
-|       **Category**     |      **Orders**   |
-|-----|-----|
-| Accessories |   17.0K  |
-|   Bikes  |   13.9K  |
-| Clothing  |   7.0K |
+- Accessories: 17.0K
+- Bikes: 13.9K
+- Clothing: 7.0K
 
---> Business implication:
+→ **Business implication:**
 Accessories are the largest contributor to order volume and represent an important opportunity for cross-selling and repeat purchases.
 
 3. High-volume does not always mean high-revenue
-
 Water Bottle – 30 oz
-
-3,963 orders
-
-$39.8K revenue
-
-1.95% return rate
-
+- 3,963 orders
+- $39.8K revenue
+- 1.95% return rate
 This is one of the strongest products by volume, but its revenue contribution is comparatively modest.
 
 Fender Set – Mountain
-
-1,975 orders
-
-$87.0K revenue
-
-1.36% return rate
-
+- 1,975 orders
+- $87.0K revenue
+- 1.36% return rate
 Despite having roughly half the orders of the Water Bottle, the Fender Set generated more than 2× its revenue.
 
-Business implication:
+→ **Business implication:**
 Management should evaluate products using both volume and value, rather than relying on order count alone.
 
 4. Some products have noticeably higher return rates
-
 Sport-100 Helmet variants
-
-Product
-
-Orders
-
-Revenue
-
-Return Rate
-
-Sport-100 Helmet – Red
-
-2,099
-
-$73.4K
-
-3.33%
-
-Sport-100 Helmet – Blue
-
-1,995
-
-$67.1K
-
-3.31%
-
+| Product| Orders | Revenue | Return Rate |
+| -------|-------------|
+| Sport-100 Helmet – Red |   2,099  | $73.4K  | 3.33% |
+| Sport-100 Helmet – Blue |  1,995  | $67.1K  | 3.31% |
 Both variants have return rates above 3.3%, compared with the overall dashboard return rate of 2.17%.
 
-Business implication:
+→ **Business implication:**
 These products should be investigated for possible common drivers such as product expectations, fit, quality, description accuracy, or customer segment differences.
 
 5. Product targets identify opportunities for improvement
-
 The Road Tire Tube reached approximately 91–92% of its target, with 213 orders against a 234-order target.
 
-Business implication:
+→ **Business implication:**
 Products below target should be monitored separately from products that are already performing strongly. This creates a more focused approach to improving product-level performance.
 ## 🔍 Deep Dive Analysis & Findings
 ### Understanding Sales Performance Through Data
