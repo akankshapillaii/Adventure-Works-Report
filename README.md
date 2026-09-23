@@ -4,7 +4,11 @@ This report is an interactive **Power BI business intelligence dashboard** built
 [📊 View Dashboard](https://github.com/akankshapillaii/Adventure-Works-Report/blob/main/AdventureWorks%20Report.pbix)
 
 ## Table of Contents
-- Business Problem
+- [Business Problem](https://github.com/akankshapillaii/Adventure-Works-Report/blob/main/README.md#business-problem)
+-
+-
+-
+-
 
 ## Business Problem
 A large transactional dataset can contain valuable information about business performance, but extracting meaningful insights from raw records can be difficult.
