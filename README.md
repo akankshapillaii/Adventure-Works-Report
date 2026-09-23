@@ -138,12 +138,14 @@ Despite having roughly half the orders of the Water Bottle, the Fender Set gener
 Management should evaluate products using both volume and value, rather than relying on order count alone.
 
 4. Some products have noticeably higher return rates
-Sport-100 Helmet variants
-| Product| Orders | Revenue | Return Rate |
-| -------|-------------|
-| Sport-100 Helmet – Red |   2,099  | $73.4K  | 3.33% |
-| Sport-100 Helmet – Blue |  1,995  | $67.1K  | 3.31% |
-Both variants have return rates above 3.3%, compared with the overall dashboard return rate of 2.17%.
+**Sport-100 Helmet variants**
+
+| Product | Orders | Revenue | Return Rate |
+|---|---:|---:|---:|
+| Sport-100 Helmet – Red | 2,099 | $73.4K | 3.33% |
+| Sport-100 Helmet – Blue | 1,995 | $67.1K | 3.31% |
+
+**Finding:** The Red and Blue Sport-100 Helmet variants show relatively high return rates of **3.33% and 3.31%**, respectively, across nearly **4,100 combined orders**. This suggests an opportunity to investigate whether product fit, quality, sizing, or customer expectations are contributing to returns.
 
 → **Business implication:**
 These products should be investigated for possible common drivers such as product expectations, fit, quality, description accuracy, or customer segment differences.
