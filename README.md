@@ -3,7 +3,14 @@ This report is an interactive **Power BI business intelligence dashboard** built
 
 [📊 View Dashboard](https://github.com/akankshapillaii/Adventure-Works-Report/blob/main/AdventureWorks%20Report.pbix)
 
+## Executive Summary
+
+The Adventure Works dashboard provides a consolidated view of $24.9M in revenue, $10.5M in profit, 25.2K orders, and a 2.17% return rate across 17.41K customers. Overall performance is positive, but the analysis highlights a few areas that deserve attention: monthly revenue increased to $1.83M (+3.31%), while orders slightly declined to 2,146 (-0.88%); high-volume products are not always the strongest revenue contributors; and some product variants have return rates above 3%.
+
+The key business opportunity is therefore not simply to increase sales volume, but to protect profitable products, understand high-return items, improve under-target product performance, and convert customer and regional insights into targeted actions.
+
 ## Table of Contents
+- [Executive Summary]()
 - [Business Problem](https://github.com/akankshapillaii/Adventure-Works-Report/blob/main/README.md#business-problem)
 - [Business Objectives](https://github.com/akankshapillaii/Adventure-Works-Report/blob/main/README.md#business-objectives)
 - [Key Stakeholders](https://github.com/akankshapillaii/Adventure-Works-Report#key-stakeholders)
@@ -15,29 +22,28 @@ This report is an interactive **Power BI business intelligence dashboard** built
 - [Deep Dive Analysis & Findings](https://github.com/akankshapillaii/Adventure-Works-Report#-deep-dive-analysis--findings)
 
 ## Business Problem
-A large transactional dataset can contain valuable information about business performance, but extracting meaningful insights from raw records can be difficult.
+Adventure Works needs a clear way to understand:
+- How revenue, profit, orders, and returns are performing.
+- Whether recent growth is coming from higher order volume or higher value per order.
+- Which product categories and products are driving demand.
+- Which products require attention because of elevated returns or weaker performance.
+- How customer and regional patterns can support better business decisions.
+The objective of this analysis was to turn transactional data into a decision-ready business view, rather than simply presenting a collection of charts.
 
-Business stakeholders need to quickly understand:
-- How much revenue is being generated?
-- Is profitability keeping pace with revenue?
-- Which products generate the most orders and revenue?
-- Which products have higher return rates?
-- How large and valuable is the customer base?
-- Which markets contribute most to performance?
-- Are individual products meeting their targets?
-- How is performance changing month over month?
-This project addresses these questions through a centralized, interactive Power BI reporting environment.
+## Dashboard
+Power BI Report: [📊 View Dashboard](https://github.com/akankshapillaii/Adventure-Works-Report/blob/main/AdventureWorks%20Report.pbix)
 
-## Business Objectives
-The dashboard was designed to help stakeholders:
-- Monitor **sales, revenue, profit, orders, and customer KPIs**
-- Compare **actual performance against targets**
-- Identify **product and customer performance trends**
-- Analyze **returns and their impact on sales**
-- Explore performance across **time, territories, and countries**
-- Drill down into **product and customer-level insights**
-- Support **data-driven business decision-making**
+The report contains four main analytical views:
+|        Page          |    Business Question    |
+| ---------------------|-------------------------|
+| Executive Dashboard  |  How is the business performing overall?  |
+|         Map          |       Where is demand coming from?        |
+Product Detail
+Which products are driving sales and profit?
 
+Customer Detail
+
+Who are the customers driving business value?
 ## Key Stakeholders
 - **Business Management** — Monitor overall sales, profitability, targets, and business performance
 - **Sales Teams** — Track revenue, orders, targets, and sales trends
