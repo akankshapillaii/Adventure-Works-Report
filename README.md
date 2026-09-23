@@ -5,10 +5,14 @@ This report is an interactive **Power BI business intelligence dashboard** built
 
 ## Table of Contents
 - [Business Problem](https://github.com/akankshapillaii/Adventure-Works-Report/blob/main/README.md#business-problem)
--
--
--
--
+- [Business Objectives](https://github.com/akankshapillaii/Adventure-Works-Report/blob/main/README.md#business-objectives)
+- [Key Stakeholders](https://github.com/akankshapillaii/Adventure-Works-Report#key-stakeholders)
+- [Project Workflow](https://github.com/akankshapillaii/Adventure-Works-Report#project-workflow)
+- [Data Structure & Initial Checks](https://github.com/akankshapillaii/Adventure-Works-Report#data-structure--initial-checks)
+- [Dashboard Pages](https://github.com/akankshapillaii/Adventure-Works-Report#dashboard-pages)
+- [Key KPIs](https://github.com/akankshapillaii/Adventure-Works-Report#key-kpis)
+- [Analytical Capabilities](https://github.com/akankshapillaii/Adventure-Works-Report#analytical-capabilities)
+- [Deep Dive Analysis & Findings](https://github.com/akankshapillaii/Adventure-Works-Report#-deep-dive-analysis--findings)
 
 ## Business Problem
 A large transactional dataset can contain valuable information about business performance, but extracting meaningful insights from raw records can be difficult.
