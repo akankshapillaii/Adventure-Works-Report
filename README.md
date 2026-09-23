@@ -157,23 +157,23 @@ The Road Tire Tube reached approximately 91–92% of its target, with 213 orders
 → **Business implication:**
 Products below target should be monitored separately from products that are already performing strongly. This creates a more focused approach to improving product-level performance.
 
-## 🔍 Deep Dive Analysis & Findings
-### Understanding Sales Performance Through Data
+## Deep Dive Analysis & Findings
+**- Understanding Sales Performance Through Data:**
 The dashboard provides an overview of **$24.9M in revenue, $10.5M in profit, and 25.2K orders**, allowing overall business performance to be evaluated alongside product, customer, return, and geographic metrics.
 
-### - Revenue Increased Despite Lower Order Volume
+**- Revenue Increased Despite Lower Order Volume:**
 The latest monthly comparison shows revenue increasing from **$1.77M to $1.83M**, a **3.31% increase**, while orders decreased from **2,165 to 2,146**, a **0.88% decline**.
 > **Finding:** Revenue growth alongside lower order volume creates an opportunity to investigate changes in average order value, product mix, or higher-value product contribution.
 
-### - Accessories Drive the Highest Order Volume
+**- Accessories Drive the Highest Order Volume:**
 **Accessories recorded 17.0K orders**, followed by **Bikes with 13.9K** and **Clothing with 7.0K**.
 > **Finding:** Accessories represent the highest order-volume category and provide an opportunity to further investigate their revenue contribution, product mix, and return behavior.
 
-### Order Volume Does Not Always Translate Into Higher Revenue
+**- Order Volume Does Not Always Translate Into Higher Revenue:**
 **Water Bottle - 30 oz** recorded **3,963 orders and $39.8K revenue**, while **Fender Set - Mountain** recorded **1,975 orders and $87.0K revenue**.
 > **Finding:** Product performance should be evaluated using multiple KPIs rather than order volume alone.
 
-### High-Revenue Products Can Have Higher Return Rates
+**- High-Revenue Products Can Have Higher Return Rates:**
 The **Sport-100 Helmet - Red** generated **$73.4K revenue** with a **3.33% return rate**, while the **Sport-100 Helmet - Blue** generated **$67.1K revenue** with a **3.31% return rate**.
 
 Both are above the overall **2.17% return rate**.
