@@ -96,8 +96,6 @@ Provides a detailed view of **individual product performance against targets**, 
 
 ## Key KPIs
 The executive dashboard provides a high-level snapshot of the business:
-| KPI                       |                         Value |
-|---|---|
 | **Revenue**	| $24.9M |
 | **Total Profit** |	$10.5M |
 | **Total Orders** | 25.2K |
@@ -124,13 +122,14 @@ Order volume by category shows:
 Accessories are the largest contributor to order volume and represent an important opportunity for cross-selling and repeat purchases.
 
 **3. High-volume does not always mean high-revenue**
-Water Bottle – 30 oz
+
+**Water Bottle – 30 oz**
 - 3,963 orders
 - $39.8K revenue
 - 1.95% return rate
 This is one of the strongest products by volume, but its revenue contribution is comparatively modest.
 
-Fender Set – Mountain
+**Fender Set – Mountain**
 - 1,975 orders
 - $87.0K revenue
 - 1.36% return rate
@@ -150,10 +149,10 @@ Management should evaluate products using both volume and value, rather than rel
 
 Both variants have return rates above 3.3%, compared with the overall dashboard return rate of 2.17%.
 
-→ **Business implication:**
-These products should be investigated for possible common drivers such as product expectations, fit, quality, description accuracy, or customer segment differences.
+→ **Business implication:** These products should be investigated for possible common drivers such as product expectations, fit, quality, description accuracy, or customer segment differences.
 
 **5. Product targets identify opportunities for improvement**
+
 The Road Tire Tube reached approximately 91–92% of its target, with 213 orders against a 234-order target.
 
 → **Business implication:**
