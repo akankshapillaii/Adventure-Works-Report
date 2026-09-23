@@ -38,6 +38,20 @@ The dashboard was designed to help stakeholders:
 ## Project Workflow
 Business Requirements → Data Preparation → Data Modeling → DAX Measures → Interactive Report Design → KPI & Trend Analysis → Business Insights
 
+# 🧩 Data Structure & Initial Checks
+The Adventure Works data structure as seen below is connecting **sales transactions with product, customer, territory, returns, and calendar information** to support multi-dimensional analysis.
+
+<p align="center">
+  <img src="Dashboard Preview/Data Model.png" width="100%">
+</p>
+
+### Initial Data Checks
+- Reviewed the available tables and fields.
+- Checked data types and column consistency.
+- Identified key fields required for table relationships.
+- Validated relationships between transactional and lookup tables.
+- Reviewed the data model to ensure it supported the required KPIs and analysis.
+
 ## Dashboard Pages
 ### 1. Executive Dashboard
 Provides a high-level view of **Adventure Works' overall business performance**, covering revenue, profit, orders, return rate, revenue trends, category performance, and monthly KPIs. It also highlights top-performing products and key product trends to support quick executive-level decision-making.
